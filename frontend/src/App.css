@@ -1,0 +1,16 @@
+.app-container {
+  background-image: url('https://i.pinimg.com/originals/95/da/12/95da1295673f2bd19a23f3b61ea240a9.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* .about {
+  background-image: url('https://a-static.besthdwallpaper.com/cyberpunk-2077-wallpaper-2160x1440-32278_40.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+} */
